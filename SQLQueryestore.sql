@@ -25,5 +25,5 @@ postal_code CHAR(6) NOT NULL,
 country VARCHAR(250) NOT NULL,
 phone_number INT NOT NULL,
 product_id INT NOT NULL, 
-suppLiers_id INT NOT NULL
+suppliers_id INT NOT NULL
 );
